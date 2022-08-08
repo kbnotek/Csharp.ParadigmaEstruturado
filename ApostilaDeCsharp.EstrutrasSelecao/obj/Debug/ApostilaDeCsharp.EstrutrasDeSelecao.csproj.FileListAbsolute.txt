@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\bin\Debug\ApostilaDeCsharp.EstrutrasSelecao.exe.config
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\bin\Debug\ApostilaDeCsharp.EstrutrasSelecao.exe
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\bin\Debug\ApostilaDeCsharp.EstrutrasSelecao.pdb
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\obj\Debug\ApostilaDeCsharp.EstrutrasDeSelecao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\obj\Debug\ApostilaDeCsharp.EstrutrasDeSelecao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\obj\Debug\ApostilaDeCsharp.EstrutrasDeSelecao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\obj\Debug\ApostilaDeCsharp.EstrutrasSelecao.exe
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.EstrutrasSelecao\obj\Debug\ApostilaDeCsharp.EstrutrasSelecao.pdb
