@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCsharp.InterfaceGrafica.exe.config
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCsharp.InterfaceGrafica.exe
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCsharp.InterfaceGrafica.pdb
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCharp.OrientacaoObjetos.exe
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCharp.OrientacaoObjetos.pdb
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCharp.OrientacaoObjetos.exe.config
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.Form1.resources
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.Properties.Resources.resources
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.CopyComplete
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.exe
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.pdb
