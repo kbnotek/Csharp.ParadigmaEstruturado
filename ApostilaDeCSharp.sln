@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.ParadigmaE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCsharp.EstrutrasDeSelecao", "ApostilaDeCsharp.EstrutrasSelecao\ApostilaDeCsharp.EstrutrasDeSelecao.csproj", "{DD66EC7D-BA28-4222-9196-B30EC3003B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCharp.OrientacaoObjetos", "ApostilaDeCharp.OrientacaoObjetos\ApostilaDeCharp.OrientacaoObjetos.csproj", "{C173BA90-32DC-4DD6-8219-E59962DFA5BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C173BA90-32DC-4DD6-8219-E59962DFA5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C173BA90-32DC-4DD6-8219-E59962DFA5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C173BA90-32DC-4DD6-8219-E59962DFA5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C173BA90-32DC-4DD6-8219-E59962DFA5BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
