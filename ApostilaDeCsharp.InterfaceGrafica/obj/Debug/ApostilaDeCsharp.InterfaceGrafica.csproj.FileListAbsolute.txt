@@ -13,3 +13,7 @@ C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafic
 C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.csproj.CopyComplete
 C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.exe
 C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.pdb
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCsharp.InterfaceGrafica.exe.manifest
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\bin\Debug\ApostilaDeCsharp.InterfaceGrafica.application
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.exe.manifest
+C:\Users\Aluno\Documents\Curso\ApostilaDeCSharp\ApostilaDeCsharp.InterfaceGrafica\obj\Debug\ApostilaDeCsharp.InterfaceGrafica.application

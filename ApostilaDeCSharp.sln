@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCSharp.ParadigmaEstruturado", "ApostilaDeCSharp.ParadigmaEstruturado\ApostilaDeCSharp.ParadigmaEstruturado.csproj", "{E4D52EFD-8F0A-4DCE-8C7F-C46E185F1043}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCsharp.EstrutrasDeSelecao", "ApostilaDeCsharp.EstrutrasSelecao\ApostilaDeCsharp.EstrutrasDeSelecao.csproj", "{DD66EC7D-BA28-4222-9196-B30EC3003B06}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostilaDeCharp.OrientacaoObjetos", "ApostilaDeCharp.OrientacaoObjetos\ApostilaDeCharp.OrientacaoObjetos.csproj", "{C173BA90-32DC-4DD6-8219-E59962DFA5BA}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E4D52EFD-8F0A-4DCE-8C7F-C46E185F1043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4D52EFD-8F0A-4DCE-8C7F-C46E185F1043}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4D52EFD-8F0A-4DCE-8C7F-C46E185F1043}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4D52EFD-8F0A-4DCE-8C7F-C46E185F1043}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD66EC7D-BA28-4222-9196-B30EC3003B06}.Release|Any CPU.ActiveCfg = Release|Any CPU

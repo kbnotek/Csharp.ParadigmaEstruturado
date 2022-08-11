@@ -51,6 +51,7 @@
             this.btnNadar.TabIndex = 1;
             this.btnNadar.Text = "Nadar";
             this.btnNadar.UseVisualStyleBackColor = true;
+            this.btnNadar.Click += new System.EventHandler(this.btnNadar_Click);
             // 
             // btnPular
             // 
@@ -60,6 +61,7 @@
             this.btnPular.TabIndex = 2;
             this.btnPular.Text = "Pular";
             this.btnPular.UseVisualStyleBackColor = true;
+            this.btnPular.Click += new System.EventHandler(this.btnPular_Click);
             // 
             // btnCorrer
             // 
@@ -69,6 +71,7 @@
             this.btnCorrer.TabIndex = 3;
             this.btnCorrer.Text = "Correr";
             this.btnCorrer.UseVisualStyleBackColor = true;
+            this.btnCorrer.Click += new System.EventHandler(this.btnCorrer_Click);
             // 
             // btnVirarEsquerda
             // 
@@ -78,6 +81,7 @@
             this.btnVirarEsquerda.TabIndex = 4;
             this.btnVirarEsquerda.Text = "Virar Esquerda";
             this.btnVirarEsquerda.UseVisualStyleBackColor = true;
+            this.btnVirarEsquerda.Click += new System.EventHandler(this.btnVirarEsquerda_Click);
             // 
             // btnVirarDireita
             // 
@@ -87,6 +91,7 @@
             this.btnVirarDireita.TabIndex = 5;
             this.btnVirarDireita.Text = "Virar Direita";
             this.btnVirarDireita.UseVisualStyleBackColor = true;
+            this.btnVirarDireita.Click += new System.EventHandler(this.btnVirarDireita_Click);
             // 
             // btnVoltar
             // 
@@ -96,6 +101,7 @@
             this.btnVoltar.TabIndex = 6;
             this.btnVoltar.Text = "Voltar";
             this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
             // 
             // btnParar
             // 
@@ -105,6 +111,7 @@
             this.btnParar.TabIndex = 7;
             this.btnParar.Text = "Parar";
             this.btnParar.UseVisualStyleBackColor = true;
+            this.btnParar.Click += new System.EventHandler(this.btnParar_Click);
             // 
             // btnAndar
             // 
@@ -118,41 +125,43 @@
             // 
             // txtPontos
             // 
-            this.txtPontos.Location = new System.Drawing.Point(100, 48);
+            this.txtPontos.Location = new System.Drawing.Point(115, 45);
             this.txtPontos.Name = "txtPontos";
-            this.txtPontos.Size = new System.Drawing.Size(100, 20);
+            this.txtPontos.Size = new System.Drawing.Size(117, 20);
             this.txtPontos.TabIndex = 9;
             // 
             // lblPontos
             // 
             this.lblPontos.AutoSize = true;
+            this.lblPontos.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPontos.Location = new System.Drawing.Point(12, 48);
             this.lblPontos.Name = "lblPontos";
-            this.lblPontos.Size = new System.Drawing.Size(82, 13);
+            this.lblPontos.Size = new System.Drawing.Size(97, 13);
             this.lblPontos.TabIndex = 10;
             this.lblPontos.Text = "Total de Pontos";
             // 
             // lblNome
             // 
             this.lblNome.AutoSize = true;
-            this.lblNome.Location = new System.Drawing.Point(12, 23);
+            this.lblNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNome.Location = new System.Drawing.Point(12, 19);
             this.lblNome.Name = "lblNome";
-            this.lblNome.Size = new System.Drawing.Size(114, 13);
+            this.lblNome.Size = new System.Drawing.Size(132, 13);
             this.lblNome.TabIndex = 11;
             this.lblNome.Text = "Nome Do Personagem";
             // 
             // txtNome
             // 
-            this.txtNome.Location = new System.Drawing.Point(132, 16);
+            this.txtNome.Location = new System.Drawing.Point(150, 16);
             this.txtNome.Name = "txtNome";
-            this.txtNome.Size = new System.Drawing.Size(100, 20);
+            this.txtNome.Size = new System.Drawing.Size(110, 20);
             this.txtNome.TabIndex = 12;
             // 
             // btnVoa
             // 
-            this.btnVoa.Location = new System.Drawing.Point(726, 168);
+            this.btnVoa.Location = new System.Drawing.Point(725, 168);
             this.btnVoa.Name = "btnVoa";
-            this.btnVoa.Size = new System.Drawing.Size(75, 23);
+            this.btnVoa.Size = new System.Drawing.Size(73, 23);
             this.btnVoa.TabIndex = 13;
             this.btnVoa.Text = "Voar";
             this.btnVoa.UseVisualStyleBackColor = true;
@@ -162,6 +171,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnVoa);
             this.Controls.Add(this.txtNome);
@@ -178,6 +188,7 @@
             this.Controls.Add(this.btnNadar);
             this.Name = "Form1";
             this.Text = "Drive I";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
